@@ -106,11 +106,10 @@ Projeto relacionado à **ODS 11 — Cidades e Comunidades Sustentáveis**.
 ---
 
 ## 📊 GitHub
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkiR-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ikkiR-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkiR&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
+  <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=ikkiR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 ---
 
 ## 📫 Contato
