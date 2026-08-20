@@ -107,7 +107,7 @@ Projeto relacionado à **ODS 11 — Cidades e Comunidades Sustentáveis**.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkiR&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikkiR&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
